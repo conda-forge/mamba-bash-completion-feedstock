@@ -10,7 +10,7 @@ source:
   sha256: a811eb585d9b38290653f25660187dee688bb65f4c173306abe08125f95ad7d2
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
@@ -31,3 +31,4 @@ about:
 extra:
   recipe-maintainers:
     - tartansandal
+    - unkcpz
